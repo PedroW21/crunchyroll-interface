@@ -1,0 +1,38 @@
+.container-header {
+    background-color: var(--cinza-quase-preto);
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    justify-content: space-around;
+}
+
+.container-logo {
+    display: flex;
+}
+
+.container-logo:hover {
+    filter: brightness(0) invert(1);
+    transition: 0.2s;
+}
+
+.logo {
+    color: var(--laranja);
+    font-family: 'Raleway', sans-serif;
+    font-weight: medium 500;
+}
+
+.img-logo {
+    width: 30px;
+    margin: 0 1px 0 10px;
+}
+
+.item-nav {
+    text-decoration: none;
+    color: var(--branco);
+    font-family: 'Open Sans', sans-serif;
+    margin: 10px;
+}
+
+.item-nav:hover {
+    background-color: var(--preto);
+}
