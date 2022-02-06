@@ -3,8 +3,10 @@
 :root {
     --preto: #141414;
     --laranja: #FAB506;
+    --laranja-escuro: #F17100;
     --branco: #FFFFFF;
     --cinza-quase-preto: #272727;
+    --azul-claro: #00DFDB;
 }
 
 * {
@@ -17,3 +19,15 @@ body {
     background-color: var(--preto);
 }
 
+h2 {
+    color: var(--branco);
+    font-family: 'Open Sans', Sans-serif;
+    font-size: 2rem;
+    margin: 0.5rem 0;
+}
+
+p {
+    font-family: 'Open-sans', sans-serif;
+    color: var(--branco);
+    font-weight: bold;
+}

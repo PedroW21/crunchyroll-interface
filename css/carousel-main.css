@@ -1,16 +1,14 @@
-.carousel-principal {
-  background-image: url("/img/red-orange-gradient-bg.jpg");
+.carousel-main {
+  background-image: url("/img/main-carousel/red-orange-gradient-bg.jpg");
   height: 500px;
   background-size: cover;
   display: flex;
 }
 
 .carousel-list {
-  width: 50%;
+  width: 70%;
   margin: auto;
 }
-
-
 
 .image-carousel {
   max-width: 100%;
