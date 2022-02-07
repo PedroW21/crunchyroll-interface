@@ -6,6 +6,7 @@
     --laranja-escuro: #F17100;
     --branco: #FFFFFF;
     --cinza-quase-preto: #272727;
+    --cinza-claro: #646464;
     --azul-claro: #00DFDB;
 }
 
@@ -30,4 +31,9 @@ p {
     font-family: 'Open-sans', sans-serif;
     color: var(--branco);
     font-weight: bold;
+}
+
+.list-item {
+    font-family: 'Open-sans', sans-serif;
+    color: var(--cinza-claro);
 }
