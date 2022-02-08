@@ -1,9 +1,14 @@
-.container-header {
+.header-box {
     background-color: var(--cinza-quase-preto);
+}
+
+.container-header {
+    width: 75%;
+    margin:  0 auto;
     display: flex;
     align-items: center;
+    justify-content: space-evenly;
     padding: 10px;
-    justify-content: space-around;
 }
 
 .container-logo {
@@ -23,8 +28,9 @@
 }
 
 .img-logo {
-    width: 50px;
-    margin: 0 1px 0 10px;
+    width: 20%;
+    height: 20%;
+    margin: auto;
 }
 
 .item-nav {
