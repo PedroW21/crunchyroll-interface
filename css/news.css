@@ -40,30 +40,30 @@
     width: 100%;
 }
 
+
+.big-content-title { 
+    margin-left: 9%;
+}
+
+/*  Small News */
+
 .item-news__content--small {
     width: 654px;
     height: 78px;
     display: flex;
     align-items: center;
-    margin: 2% 5%;
+    margin: 5% 5%;
 }
 
 .news-img__small {
     width: 100px;
 }
 
-.big-content-title { 
-    margin-left: 5%;
-}
-
 .small-content-title {
-    margin-left: 5%;
+    margin-left: 3%;
 }
 
 .small-p {
     font-size: 14px;
     margin-left: 12px;
 }
-
-/*  Small News */
-
