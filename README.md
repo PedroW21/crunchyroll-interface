@@ -1,4 +1,4 @@
-# Clonagem da Interface do Crunchyroll
+# Clonagem da Interface do Crunchyroll ╰(▔∀▔)╯	
 
 O objetivo do exercício original era realizar a clonagem da interface da Netflix. 
 
