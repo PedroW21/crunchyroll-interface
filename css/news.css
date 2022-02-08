@@ -1,7 +1,7 @@
 .news {
     height: 600px;
     margin: 2rem 0;
-    background-image: url('../img/banners/news-bg.png');
+    background-image: url('../img/bg-images/news-bg.png');
     display: flex;
 }
 
